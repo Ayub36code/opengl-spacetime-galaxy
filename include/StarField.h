@@ -1,0 +1,13 @@
+//
+// Created by ayub on 10/18/26.
+//
+
+#ifndef OPENGL_SPACETIME_GALAXY_STARFIELD_H
+#define OPENGL_SPACETIME_GALAXY_STARFIELD_H
+
+
+class StarField {
+};
+
+
+#endif //OPENGL_SPACETIME_GALAXY_STARFIELD_H

@@ -1,0 +1,5 @@
+/home/ayub/Desktop/opengl-spacetime-galaxy/build/CMakeFiles/imgui.dir
+/home/ayub/Desktop/opengl-spacetime-galaxy/build/CMakeFiles/glad.dir
+/home/ayub/Desktop/opengl-spacetime-galaxy/build/CMakeFiles/opengl_spacetime_galaxy.dir
+/home/ayub/Desktop/opengl-spacetime-galaxy/build/CMakeFiles/edit_cache.dir
+/home/ayub/Desktop/opengl-spacetime-galaxy/build/CMakeFiles/rebuild_cache.dir
